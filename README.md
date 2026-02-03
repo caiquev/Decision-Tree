@@ -55,18 +55,5 @@ Analysis of the Decision Tree (Depth=3) revealed that physiological anomalies ar
 
 > The decision tree plot reveals the exact branching logic used to classify the clones.
 
-## 🔧 How to Run
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/yourusername/war-analytics-clones.git](https://github.com/yourusername/war-analytics-clones.git)
-    ```
-2.  **Install dependencies:**
-    ```bash
-    pip install pandas scikit-learn matplotlib pyarrow
-    ```
-3.  **Run the Notebook:**
-    Open `notebook.ipynb` (or the Python script) to reproduce the analysis.
-
 ---
 *May the Force be with your data.*
